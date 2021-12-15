@@ -1,0 +1,39 @@
+body {
+    background-image: url("https://images.pexels.com/photos/1363876/pexels-photo-1363876.jpeg?cs=srgb&dl=pexels-travis-blessing-1363876.jpg&fm=jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: aliceblue;
+    font-family: cambria;
+}
+
+.login_div1 {
+    background-color: rgba(233, 243, 241, 0.144);
+    color: rgba(240, 248, 255, 0.657);
+    padding: 50px;
+    float: left;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-left: 200px;
+    margin-top: 40;
+}
+
+.login_div2 {
+    background-color: rgba(233, 243, 241, 0.144);
+    color: rgba(240, 248, 255, 0.657);
+    padding: 50px;
+    float: right;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-right: 200px;
+
+}
+
+.btn {
+    background-color: #b478ed;
+    color: white;
+    font-size: 25;
+    margin-top: 100px;
+}
